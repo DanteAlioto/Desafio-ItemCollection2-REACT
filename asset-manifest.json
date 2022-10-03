@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Desafio-ItemCollection2-REACT/static/css/main.e0ebdda2.css",
+    "main.css": "/Desafio-ItemCollection2-REACT/static/css/main.5857397b.css",
     "main.js": "/Desafio-ItemCollection2-REACT/static/js/main.a6ba030c.js",
     "static/js/787.96f7b6f3.chunk.js": "/Desafio-ItemCollection2-REACT/static/js/787.96f7b6f3.chunk.js",
     "index.html": "/Desafio-ItemCollection2-REACT/index.html",
-    "main.e0ebdda2.css.map": "/Desafio-ItemCollection2-REACT/static/css/main.e0ebdda2.css.map",
+    "main.5857397b.css.map": "/Desafio-ItemCollection2-REACT/static/css/main.5857397b.css.map",
     "main.a6ba030c.js.map": "/Desafio-ItemCollection2-REACT/static/js/main.a6ba030c.js.map",
     "787.96f7b6f3.chunk.js.map": "/Desafio-ItemCollection2-REACT/static/js/787.96f7b6f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0ebdda2.css",
+    "static/css/main.5857397b.css",
     "static/js/main.a6ba030c.js"
   ]
 }
