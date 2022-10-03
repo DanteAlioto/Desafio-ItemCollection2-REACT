@@ -76,7 +76,7 @@ const handleClick = ()=> {
         </div>
       </div>
       <br />
-      <div>
+      <div className='inputContainer'>
       <input type="text" required placeholder='Nombre' value={name} size="50" onChange={(e) => setName(e.target.value)}/><br />
         <input type="text" required placeholder='Email' value={email} size="50" onChange={(e) => setEmail(e.target.value)}/><br />
         <input type="text" required placeholder='Teléfono' value={phone} size="50" onChange={(e) => setPhone(e.target.value)}/><br />

@@ -24,3 +24,14 @@ body {
 .pp {
     text-align: center;
 }
+
+input {
+    color:rgb(0, 0, 0);
+}
+
+.inputContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
